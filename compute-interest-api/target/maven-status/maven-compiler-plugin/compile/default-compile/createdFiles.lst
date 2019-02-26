@@ -1,0 +1,5 @@
+officespace/Application.class
+officespace/models/AccountDao.class
+officespace/models/Transaction.class
+officespace/controllers/MainController.class
+officespace/models/Account.class
